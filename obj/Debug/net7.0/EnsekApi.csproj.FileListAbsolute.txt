@@ -92,6 +92,7 @@ C:\Users\DilipVaghela\RiderProjects\EnsekApi\EnsekApi\obj\Debug\net7.0\EnsekApi.
 C:\Users\DilipVaghela\RiderProjects\EnsekApi\EnsekApi\obj\Debug\net7.0\EnsekApi.AssemblyInfoInputs.cache
 C:\Users\DilipVaghela\RiderProjects\EnsekApi\EnsekApi\obj\Debug\net7.0\EnsekApi.AssemblyInfo.cs
 C:\Users\DilipVaghela\RiderProjects\EnsekApi\EnsekApi\obj\Debug\net7.0\EnsekApi.csproj.CoreCompileInputs.cache
+C:\Users\DilipVaghela\RiderProjects\EnsekApi\EnsekApi\obj\Debug\net7.0\EnsekApi.sourcelink.json
 C:\Users\DilipVaghela\RiderProjects\EnsekApi\EnsekApi\obj\Debug\net7.0\EnsekApi.csproj.CopyComplete
 C:\Users\DilipVaghela\RiderProjects\EnsekApi\EnsekApi\obj\Debug\net7.0\EnsekApi.dll
 C:\Users\DilipVaghela\RiderProjects\EnsekApi\EnsekApi\obj\Debug\net7.0\refint\EnsekApi.dll

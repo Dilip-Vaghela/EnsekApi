@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnsekApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a95c09c0c4ce34149ecfb6b61bf15c797960c0fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnsekApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnsekApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
